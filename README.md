@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="left">
 <a href="https://pinnacle.works">
   <img src="https://pinnacle.works/site/wp-content/uploads/revslider/home-w/superbots-1.png" alt="" data-ww="['500px','500px','406px','406px']" data-hh="['90px','90px','73px','73px']" width="500" height="90" data-no-retina="" style="width: 322.984px; height: 58.1371px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 8px;">
@@ -92,3 +93,6 @@ Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](ht
 ## License
 SuperBot is released under the MIT license. [See LICENSE](https://github.com/antinolabsdev/SuperBotSDK-Android/blob/master/LICENSE) for details.
 
+=======
+# SuperBot-SDK-for-Android
+>>>>>>> 247b555b6f1c09703001b8aeb1359fbaa96a7b48
