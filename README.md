@@ -20,7 +20,7 @@ The SuperBot Android SDK is really simple to integrate into your apps, and allow
 - Android Lollipop, 5.1 (API level 23+)
 - Android Studio 2.0+
 - Java 7+
-(Pinnacle Works also with pure Java projects)
+(SuperBot Works also with pure Java projects)
 ## Setup SuperBot SDK
 
 ## Step 1. Add the JitPack repository to your build file
