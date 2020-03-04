@@ -1,19 +1,19 @@
 <p align="left">
 <a href="https://pinnacle.works">
-  <img src="https://pinnacle.works/site/wp-content/uploads/revslider/home-w/superbots-1.png" alt="" data-ww="['500px','500px','406px','406px']" data-hh="['90px','90px','73px','73px']" width="500" height="90" data-no-retina="" style="width: 322.984px; height: 58.1371px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 8px;">
+  <img src="https://pinnacle.works/site/wp-content/uploads/revslider/home-w/superbots-1.png" height="100" alt="Live Chat Android SDK Help Desk"></a>
 </p>
-<h1>Live Chat Android SDK from Pinnacle</h1>
-<h2>  Live Chat for your mobile apps. Integrate painlessly the Live Chat for your customer support inside any Android App with  <a href="https://pinnacle.works/solutions/superbot/">SuperBot Live Chat SDK</a> </h2>
+<h1>SuperBot Android SDK</h1>
+<h2> Best-in-Class ChatBot for your mobile apps. Integrate painlessly the ChatBot for your customer support inside any Android App with <a href="https://pinnacle.works/solutions/superbot/">SuperBot</a> SDK </h2>
 
   [![Android API23+](https://img.shields.io/badge/Android-API_23+-green.svg)]()
   [![Java 6+](https://img.shields.io/badge/Java-6+-red.svg)]()
   [![License Apache 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-red.svg)]()
 
-**SuperBot** is the most complete <strong>Live Chat</strong> AI-driven Omni-channel conversation platform developed with the help of technologies like Machine Learning and Artificial Intelligence powered by Google Algorithms for assisting organizations to attend their online queries. 
+**SuperBot** is the most complete AI-driven Omni-channel conversation **ChatBot** developed with the help of technologies like Machine Learning and Artificial Intelligence powered by Google Algorithms for assisting organizations to attend their online queries.
 
-The Bot’s intelligence is backed by high data analytics and research.The AI technology used, makes it smarter every second, as it empowers the Bot with a Self-Learning Capability. 
+The Bot’s intelligence is backed by high data analytics and research. The AI technology used, makes it smarter every second, as it empowers the Bot with a Self-Learning Capability.
 
-The SuperBot Live Chat Android SDK is really simple to integrate in your apps, and allow your users to contact you via chat.
+The SuperBot Android SDK is really simple to integrate into your apps, and allow your users to contact you via chat.
 
 ## Requirements
 
