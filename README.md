@@ -76,5 +76,5 @@ Add it in your root build.gradle at the end of repositories:
 Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](https://pinnacle.works/).
 
 ## License
-SuperBot is released under the MIT license. [See LICENSE](https://github.com/antinolabsdev/SuperBotSDK-Android/blob/master/LICENSE) for details.
+SuperBot is released under the MIT license. [See LICENSE](https://github.com/pinnacle-works/SuperBot-SDK-for-Android/blob/master/LICENSE) for details.
 
