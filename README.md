@@ -66,11 +66,11 @@ Add it in your root build.gradle at the end of repositories:
 	 
 ## Contributing
 
-- If you **need help** or you'd like to **ask a general question**, open an issue or contact our support on [SuperBot](https://pinnacle.works/solutions/superbot/)
-- If you **found a bug**, open an issue.
-- If you **have a feature request**, open an issue.
+- If you **need help** or you'd like to **ask a general question**, contact us support@pinnacleworks.net
+- If you **found a bug**, open a service request.
+- If you **have a feature request**, open a service request.
 - If you **want to contribute**, submit a pull request.
-	 
+
 ## Acknowledgements
 
 Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](https://pinnacle.works/).
