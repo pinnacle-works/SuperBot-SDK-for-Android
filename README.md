@@ -21,7 +21,7 @@ The SuperBot Android SDK is really simple to integrate into your apps, and allow
 - Android Studio 2.0+
 - Java 7+
 (Pinnacle Works also with pure Java projects)
-## Setup Pinnacle SDK
+## Setup SuperBot SDK
 
 ## Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
