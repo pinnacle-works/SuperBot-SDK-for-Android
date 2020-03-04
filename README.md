@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="left">
 <a href="https://pinnacle.works">
   <img src="https://pinnacle.works/site/wp-content/uploads/revslider/home-w/superbots-1.png" alt="" data-ww="['500px','500px','406px','406px']" data-hh="['90px','90px','73px','73px']" width="500" height="90" data-no-retina="" style="width: 322.984px; height: 58.1371px; transition: none 0s ease 0s; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 8px;">
@@ -15,20 +14,6 @@
 The Bot’s intelligence is backed by high data analytics and research.The AI technology used, makes it smarter every second, as it empowers the Bot with a Self-Learning Capability. 
 
 The SuperBot Live Chat Android SDK is really simple to integrate in your apps, and allow your users to contact you via chat.
-
-<p align="center">
-  <img src="https://pinnacle.works/site/wp-content/uploads/revslider/newsb/phone-1.png" width=300 alt="Live Chat Help Desk ios SDK "/>
-</p>
-
-## Features
-- [x] Support via live chat in real time
-- [x] Set attributes
-- [x] Self Learning
-- [x] High Response Rate
-- [x] Multi User Handling
-- [x] Unlimited Information Storage
-- [x] Java 8 compatibility
-- [x] Many more is coming....
 
 ## Requirements
 
@@ -48,13 +33,13 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
 
-## Step 2 Add the dependency
+## Step 2. Add the dependency
 
 	dependencies {
 	        implementation 'com.github.antinolabsdev:librarybotsdk:1.1'
 	}
   
-## Step 3 Write compileOptions in
+## Step 3. Write compileOptions in
 
 	android{
 	  compileOptions {
@@ -63,7 +48,7 @@ Add it in your root build.gradle at the end of repositories:
 	    }
 	}
 	
-## Step 4 Write these line in our code 
+## Step 4. Write these line in our code 
 	
 	1.  Create the instance the of the custom layout
 	2.  Connected with the parent layout.
@@ -75,7 +60,7 @@ Add it in your root build.gradle at the end of repositories:
 	     relativeLayout.init(action,secret);
 	     constraintLayout.addView(relativeLayout);
 
-## Step 5 Added Internet permission in Mainfest
+## Step 5. Added Internet permission in Mainfest
 
 	 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 	 
@@ -93,6 +78,3 @@ Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](ht
 ## License
 SuperBot is released under the MIT license. [See LICENSE](https://github.com/antinolabsdev/SuperBotSDK-Android/blob/master/LICENSE) for details.
 
-=======
-# SuperBot-SDK-for-Android
->>>>>>> 247b555b6f1c09703001b8aeb1359fbaa96a7b48
