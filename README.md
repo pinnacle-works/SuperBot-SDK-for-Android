@@ -36,7 +36,7 @@ Add it in your root build.gradle at the end of repositories:
 ## Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.antinolabsdev:librarybotsdk:1.1'
+	        implementation 'com.github.antinolabsdev:librarybotsdk:1.2'
 	}
   
 ## Step 3. Write compileOptions in
